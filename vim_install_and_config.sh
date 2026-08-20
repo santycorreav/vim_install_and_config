@@ -142,8 +142,8 @@ nnoremap <leader>q :call CloseCurrentFile()<CR>
 " Cambiar el foco entre ventanas (como Alt+Tab pero solo con Espacio y Tab)
 " Con <Space> + Tab saltas de ventana en ventana
 nnoremap <leader><Tab> <C-w>w
-inoremap <leader><Tab> <C-w>w
-
+" inoremap <leader><Tab> <C-w>w
+" 
 " ===================== SOPORTE DE MOUSE =====================
 " Habilitar el raton por si quieres usarlo en el arbol
 set mouse=a
