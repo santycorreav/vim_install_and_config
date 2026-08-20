@@ -46,4 +46,4 @@ vim
 
 ---
 
-Author: Santiago Correa.
+**Author**: Santiago Correa.
